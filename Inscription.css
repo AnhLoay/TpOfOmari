@@ -1,0 +1,11 @@
+input{
+    border:dotted;
+    border-radius: 5px;
+    height: 25px;
+    cursor: none;
+    box-shadow: inset 1px 0px 3px 2px rgb(122, 212, 125);
+    
+}
+input:focus{
+    background-color: rgb(122, 212, 125);
+}

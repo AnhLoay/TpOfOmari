@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+    color: rgb(36, 105, 105);
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    font-family: fantasy;
+    font-size: 14px;
+}
