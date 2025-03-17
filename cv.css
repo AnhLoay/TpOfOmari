@@ -1,0 +1,58 @@
+body{
+    user-select: none;
+}
+img{
+    /* display: inline-block; */
+    width: 8rem;
+    height: 8rem;
+    position: relative;
+    top: 20px;
+    border-radius: 50%;
+
+}
+abbr{
+    text-decoration: none;
+    font-size: 2rem;
+    font-family: yu gothic;
+    position: relative;
+    top: -150px;
+    left: 50%;
+    
+}
+.nav{
+    padding: 0px;
+    margin: 3px;
+    position: relative;
+    top:-185px;
+    left: 49%;
+}
+#div2{
+    position: relative;
+    top: -150px;
+    
+}
+li{
+    list-style-type: circle;
+}
+#div1{
+   width: 100%;
+
+
+}
+fieldset{
+    background-image: linear-gradient(to right, #34bcc9,transparent, #0073ff);
+    height: 180px;
+    padding: 0px;
+    opacity: 0.8;
+}
+h2{
+    font-family: cursive;  
+
+}
+h3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+hr{
+    border: 1.5px dotted black;
+}
